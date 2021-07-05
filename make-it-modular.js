@@ -1,0 +1,1 @@
+const myfunction=require('./mymodule') 
